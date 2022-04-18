@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\ballgame-main"
+		},
+		{
+			"path": "..\\..\\ballgame-main (1)"
+		},
+		{
+			"path": "..\\..\\js (5)"
+		},
+		{
+			"path": "..\\..\\SAAT"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SAAT"
+	}
+}
